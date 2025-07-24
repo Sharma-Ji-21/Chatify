@@ -15,7 +15,6 @@ A beautiful, real-time chat application built with Flutter and Firebase that bri
 
 ## 🚀 Screenshots
 
-<!-- Add your 4 screenshots here -->
 | Login Screen | Signup Screen | Home Screen | Chat Screen |
 |:------------:|:-------------:|:-----------:|:-----------:|
 | ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) | ![Home](screenshots/home.png) | ![Chat](screenshots/chat.png) |
